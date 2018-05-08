@@ -16,7 +16,7 @@ class Student
     students_array.each do |student|
       Student.new(student)
       
-    end 
+    end
 
 
   end
